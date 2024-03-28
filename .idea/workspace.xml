@@ -8,10 +8,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/Public-Portfolio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Public-Portfolio.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Projects/Pandas - DataCamp - NYC Public Test Scores.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python Projects/DataCamp - NYC Public Test Scores.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Projects/Pandas - DataCamp - Netflix Movies.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python Projects/DataCamp - Netflix Movies.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Projects/Pandas - DataCamp - Nobel Prize Winners.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python Projects/DataCamp - Nobel Prize Winners.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Projects/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python Projects/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Projects/Wine - Linear Regression Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Projects/Wine - Linear Regression Model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,15 +37,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Linear Regression.executor": "Run",
-    "Python.Wine - Linear Regression Model.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Linear Regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Wine - Linear Regression Model.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Wine - Linear Regression Model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Public-Portfolio" />
@@ -80,7 +78,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-67fca87a943a-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.259" />
+        <option value="bundled-python-sdk-7a29c1521ef0-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.298" />
       </set>
     </attachedChunks>
   </component>
