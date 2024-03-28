@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7db5b3a-8f3c-4bd7-a633-0942f3da6634" name="Changes" comment="" />
+    <list default="true" id="c7db5b3a-8f3c-4bd7-a633-0942f3da6634" name="Changes" comment="Changed to ipynb">
+      <change beforePath="$PROJECT_DIR$/.idea/Public-Portfolio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Public-Portfolio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Projects/Pandas - DataCamp - NYC Public Test Scores.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python Projects/DataCamp - NYC Public Test Scores.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Projects/Pandas - DataCamp - Netflix Movies.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python Projects/DataCamp - Netflix Movies.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Projects/Pandas - DataCamp - Nobel Prize Winners.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python Projects/DataCamp - Nobel Prize Winners.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Projects/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python Projects/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -13,9 +31,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2eFqZ2fChPQVlgsJLrmGPQNn8TS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,15 +41,46 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Linear Regression.executor": "Run",
+    "Python.Wine - Linear Regression Model.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Wine - Linear Regression Model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Public-Portfolio" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Projects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Projects/Wine - Linear Regression Model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Wine - Linear Regression Model" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-7a29c1521ef0-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.298" />
+        <option value="bundled-python-sdk-67fca87a943a-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.259" />
       </set>
     </attachedChunks>
   </component>
@@ -44,6 +93,19 @@
       <option name="presentableId" value="Default" />
       <updated>1711510726024</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changed to ipynb">
+      <option name="closed" value="true" />
+      <created>1711574148595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711574148595</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed to ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed to ipynb" />
   </component>
 </project>
