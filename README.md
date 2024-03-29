@@ -11,6 +11,7 @@ I am completely part self-taught and aim to bring my imagination to reality!
 Connect with me on Linkedin: [LinkedIn](https://www.linkedin.com/in/paul-lazarte/)
 
 Currently Working On:
+
 SciKit / Pandas / NumPy / Seaborn - Data Analysis + Data Visualization + Case Studies
 OpenCv - Template Matching - For Fun
 Tidyverse - Data Analysis - For Fun
