@@ -18,40 +18,40 @@ print(wine_df.columns)
 
 # Looking at the different independent variables compared to the dependent variable (Wine Price)
 # We're looking for correlations between them to see if these independent variables can predict (Wine Price)
-# sns.scatterplot(data=wine_df, x='Year', y='Price')
-# plt.title('Year vs Price')
-# plt.tight_layout()
-# plt.show()
-#
-# # Scatter plot for 'WinterRain' vs 'Price'
-# sns.scatterplot(data=wine_df, x='WinterRain', y='Price')
-# plt.title('WinterRain vs Price')
-# plt.tight_layout()
-# plt.show()
-#
-# # Scatter plot for 'AGST' vs 'Price'
-# sns.scatterplot(data=wine_df, x='AGST', y='Price')
-# plt.title('AGST vs Price')
-# plt.tight_layout()
-# plt.show()
-#
-# # Scatter plot for 'HarvestRain' vs 'Price'
-# sns.scatterplot(data=wine_df, x='HarvestRain', y='Price')
-# plt.title('HarvestRain vs Price')
-# plt.tight_layout()
-# plt.show()
-#
-# # Scatter plot for 'Age' vs 'Price'
-# sns.scatterplot(data=wine_df, x='Age', y='Price')
-# plt.title('Age vs Price')
-# plt.tight_layout()
-# plt.show()
-#
-# # Scatter plot for 'FrancePop' vs 'Price'
-# sns.scatterplot(data=wine_df, x='FrancePop', y='Price')
-# plt.title('FrancePop vs Price')
-# plt.tight_layout()
-# plt.show()
+sns.scatterplot(data=wine_df, x='Year', y='Price')
+plt.title('Year vs Price')
+plt.tight_layout()
+plt.show()
+
+# Scatter plot for 'WinterRain' vs 'Price'
+sns.scatterplot(data=wine_df, x='WinterRain', y='Price')
+plt.title('WinterRain vs Price')
+plt.tight_layout()
+plt.show()
+
+# Scatter plot for 'AGST' vs 'Price'
+sns.scatterplot(data=wine_df, x='AGST', y='Price')
+plt.title('AGST vs Price')
+plt.tight_layout()
+plt.show()
+
+# Scatter plot for 'HarvestRain' vs 'Price'
+sns.scatterplot(data=wine_df, x='HarvestRain', y='Price')
+plt.title('HarvestRain vs Price')
+plt.tight_layout()
+plt.show()
+
+# Scatter plot for 'Age' vs 'Price'
+sns.scatterplot(data=wine_df, x='Age', y='Price')
+plt.title('Age vs Price')
+plt.tight_layout()
+plt.show()
+
+# Scatter plot for 'FrancePop' vs 'Price'
+sns.scatterplot(data=wine_df, x='FrancePop', y='Price')
+plt.title('FrancePop vs Price')
+plt.tight_layout()
+plt.show()
 
 # Now let's Define the model for Linear Regression to determine
 # Correlation between these variables and wine price
