@@ -8,7 +8,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/Public-Portfolio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Public-Portfolio.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Projects/Wine - Linear Regression Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Projects/Wine - Linear Regression Model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Projects/Healthcare - Logistic Regression Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Projects/Class -Healthcare - Logistic Regression Model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Projects/Wine - Linear Regression Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Projects/Class - Wine - Linear Regression Model.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,25 +37,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.Healthcare - Logistic Regression Model.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Linear Regression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Wine - Linear Regression Model.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Class - Climate Change.executor": "Run",
+    "Python.Class - Wine - Linear Regression Model.executor": "Run",
+    "Python.Healthcare - Logistic Regression Model.executor": "Run",
+    "Python.Linear Regression.executor": "Run",
+    "Python.Wine - Linear Regression Model.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\paulm\OneDrive\Documents\Portfolio\Python Projects" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Wine - Linear Regression Model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Class - Wine - Linear Regression Model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Public-Portfolio" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,7 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Projects/Wine - Linear Regression Model.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\paulm\Documents\PyProjects\Public-Portfolio\Python Projects\Class - Wine - Linear Regression Model.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,14 +81,14 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Wine - Linear Regression Model" />
+        <item itemvalue="Python.Class - Wine - Linear Regression Model" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-67fca87a943a-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.259" />
+        <option value="bundled-python-sdk-7a29c1521ef0-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.298" />
       </set>
     </attachedChunks>
   </component>
