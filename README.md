@@ -9,10 +9,3 @@ I am completely part self-taught and aim to bring my imagination to reality!
 
 
 Connect with me on Linkedin: [LinkedIn](https://www.linkedin.com/in/paul-lazarte/)
-
-Developing Mastery In:
-SciKit, Pandas, NumPy, Seaborn for Data Analysis, Data Visualization, and Statistical Analysis
-
-Currently Working On:
-OpenCv - Template Matching
-TensorFlow
